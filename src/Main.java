@@ -1,3 +1,4 @@
+//For those who know
 import java.util.Scanner;
 
 class Main {
